@@ -1,0 +1,8 @@
+
+frontend/.env
+frontend/.env.production
+frontend/.firebase/hosting.YnVpbGQ.cache
+frontend/node_modules
+backend/node_modules
+backend/uploads
+backend/nodemon.json
